@@ -4,22 +4,24 @@
 
 ## ディレクトリ構造
 
+```text
 lab/
 ├── docker/
-│ ├── dockerfile-basics/
-│ └── compose-go-mysql/
+│   ├── dockerfile-basics/
+│   └── compose-go-mysql/
 ├── sql/
-│ ├── joins/
-│ └── indexes-explain/
+│   ├── joins/
+│   └── indexes-explain/
 ├── database-design/
-│ └── order-management/
+│   └── order-management/
 ├── go/
-│ ├── error-handling/
-│ ├── context/
-│ └── concurrency/
+│   ├── error-handling/
+│   ├── context/
+│   └── concurrency/
 ├── typescript/
-│ └── type-system/
-│ └── nextjs/
+│   ├── type-system/
+│   └── nextjs/
 ├── engineering-practices/
-│ └── adr/
+│   └── adr/
 └── README.md
+```
